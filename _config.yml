@@ -1,0 +1,28 @@
+name: phage
+favicon: null
+layout_spectrum: 0.6814181245863438
+typography_spectrum: 0.8901688018813729
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9027291706297547
+  lightness: 0.38060466991737485
+  saturation: 0.46592062478885055
+  rhythmicContrast: 0.49564858223311603
+purpose: []
